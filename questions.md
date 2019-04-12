@@ -1,3 +1,5 @@
+## Verbal
+
 * What are the four pillars
 	* Abstraction
 		* hiding detail implementations
