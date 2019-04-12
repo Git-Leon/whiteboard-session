@@ -22,3 +22,22 @@
 
 * What is a base class?
 	* C# jargon for a _super class_
+
+
+
+
+
+
+<hr>
+<hr>
+## White board Questions
+* Write a method that returns true if the given `String` contains 3 consecutive duplicate characters.
+
+```java
+Boolean hasDuplicateConsecutives(String)
+```
+
+* Write a method that returns all casings of a given `String`.
+```java
+List<String> getAllCasings(String)
+```
