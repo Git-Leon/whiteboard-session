@@ -30,6 +30,7 @@
 
 <hr>
 <hr>
+
 ## White board Questions
 * Write a method that returns true if the given `String` contains 3 consecutive duplicate characters.
 
