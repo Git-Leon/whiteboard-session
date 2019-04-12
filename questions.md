@@ -4,9 +4,11 @@
 	* Polymorphism
 		* The ability for an object to take on many forms
 	* Inheritance
-		* The ability for 
+		* A mechanism of abstraction
+		* A mechanism of 
 	* Encapsulation
-		* A mechanism for abstraction
+		* A mechanism for abstraction.
+		* A mechanism for polymorphism.
 
 		
 * What is an abstract class?
@@ -19,3 +21,4 @@
 	* Can only declare method signatures
 
 * What is a base class?
+	* C# jargon for a _super class_
